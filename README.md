@@ -3,7 +3,7 @@ javascript+css+html
 ## 运行环境  
 Chrome
 ## 编译方法  
-
+直接打开index.html
 ## 使用方法  
 主要函数：  
 startAndStop():开始游戏  
